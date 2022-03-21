@@ -12,5 +12,5 @@ ipython_config.py
 .DS_Store
 
 # Project
-datasets/Spotify*
+datasets/RawData
 datasets/CompileData
