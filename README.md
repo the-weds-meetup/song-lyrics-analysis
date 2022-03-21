@@ -7,10 +7,9 @@ The repo is for the project SMU IS425 Text Mining, Song Lyrics Analysis
 ```
     validation, etc.
     ├── datasets                 <- Inputs/Outputs data for analyics/modeling in offline mode. 
-    │   ├── raw                   <- The original/raw input data
-    │   ├── interim               <- Intermediate output data that has been transformed
-    │   ├── processed             <- The final ouput
-    │   ├── reports               <- The analytics/modeling reports (excel, html,, pdf, html, figures etc)
+    │   ├── CleanData            <- Processed data
+    │   ├── CompileData          <- Raw Data compiled into yearly songs
+    │   ├── RawData              <- The original/raw input data
     ├── docs                 <- References documents for the project, data dictionaries, manuals, etc.      
     ├── envs                 <- Environment for the project 
     ├── notebooks            <- Jupyter notebooks
