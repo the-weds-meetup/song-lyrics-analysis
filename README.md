@@ -5,7 +5,7 @@ The repo is for the project SMU IS425 Text Mining, Song Lyrics Analysis
 ## Project Structure
 
 ```
-    validation, etc.
+    root
     ├── datasets                 <- Inputs/Outputs data for analyics/modeling in offline mode. 
     │   ├── CleanData            <- Processed data
     │   ├── CompileData          <- Raw Data compiled into yearly songs

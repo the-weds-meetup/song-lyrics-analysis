@@ -14,3 +14,5 @@ ipython_config.py
 # Project
 datasets/RawData
 datasets/CompileData
+temp/
+image/
