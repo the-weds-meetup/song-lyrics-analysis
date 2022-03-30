@@ -15,4 +15,4 @@ ipython_config.py
 datasets/RawData
 datasets/CompileData
 temp/
-image/
+output/
