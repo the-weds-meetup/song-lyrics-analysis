@@ -12,6 +12,7 @@ seaborn==0.11.2
 sklearn==0.0
 spacy==3.2.3
 spacy-langdetect==0.1.2
+spotipy==2.19.0
 spacy-legacy==3.0.9
 spacy-loggers==1.0.1
 statsmodels==0.13.0
