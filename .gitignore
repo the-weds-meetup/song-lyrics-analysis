@@ -9,6 +9,9 @@
 profile_default/
 ipython_config.py
 
+# python
+*.pyc
+
 # macOS
 .DS_Store
 
